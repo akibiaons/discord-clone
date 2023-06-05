@@ -1,6 +1,6 @@
 import React from "react";
-import { BsPlus, BsFillLightningFill, BsGearFill } from "react-icons/bs";
-import { FaFire, FaPoo } from "react-icons/fa";
+import { BsPlus, BsFillLightningFill } from "react-icons/bs";
+import { FaPoo } from "react-icons/fa";
 
 export const SideBar = () => {
   return (
